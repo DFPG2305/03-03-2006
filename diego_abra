@@ -1,0 +1,10 @@
+public class App {
+    public static void main(String[] args) {
+        System.out.println("DIEGO ABRA");
+        int a = 0;
+        for (int i = 0; i < 1000; i++) {
+            a += i;
+            System.out.println(a);
+        }
+    }
+}
